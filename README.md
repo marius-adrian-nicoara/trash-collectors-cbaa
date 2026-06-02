@@ -6,7 +6,10 @@ This is an example implementation of the Consensus-Based Auctioning Algorithm pr
 The parameters values (number of agents, number of tasks et al.) can be changed in <code>src/params.rs</code> before building.
 
 
-![cbaa-example-run](gif/cbaa-example-run.gif)
+![cbaa-example-run](illustrations/cbaa-example-run.gif)
+
+Behind the scenes for example case with 3 Agents and 3 Tasks
+![3-agents-3-tasks-behind-scenes](illustrations/3-agents-3-task-example.png)
 
 ## Build notes
 
