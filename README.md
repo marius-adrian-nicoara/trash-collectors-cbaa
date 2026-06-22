@@ -19,7 +19,7 @@ The crate argminmax requires the Nigthly build to be configured for the project:
 
 
 
-<code> pip install -r requirements.txt </code>
+<code> rustup override set nightly </code>
 
 Run with the project with:
 
